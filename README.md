@@ -1,4 +1,4 @@
-# Social-media-app-rn
+<h2># Social-media-app</h2>
 
 # Problem statement
 - Header
@@ -21,3 +21,5 @@
     - Write Post Icon
     - Notifications Icon
     - Jobs
+
+ <img width='200' src='https://github.com/Shahid0143/Social-media-app-rn/assets/112757232/fae2aa08-919a-422b-819c-96bb471566aa'/>
